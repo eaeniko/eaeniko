@@ -27,8 +27,5 @@
   <a href="https://www.facebook.com/eaeniko" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   
   <a href="https://www.bit.ly/eaeniko" target="_blank"><img src="https://img.shields.io/badge/-All%20My%20Links-%231d2226%20" target="_blank"></a> 
-  
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
